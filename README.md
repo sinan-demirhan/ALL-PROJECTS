@@ -39,4 +39,3 @@ The aim of the project is
 [CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)     
 
 
-
