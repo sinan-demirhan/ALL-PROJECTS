@@ -36,6 +36,7 @@ The aim of the project is
 
 ## Kaggle Projects
 
-[CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)  
+[CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)     
+
 
 
