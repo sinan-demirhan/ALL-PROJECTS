@@ -1,7 +1,7 @@
 
 [MY CERTIFICATES](Projects/CERTİFİCATES.pdf)
 
-## Quality Projects   
+## Quality Projects(Image Processing)      
 The aim of the project is     
 
 [PROJECT 1 PART-1](Projects/Quality Project 1 PART-1.html)    
