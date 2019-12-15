@@ -36,6 +36,12 @@ The aim of the project is
 
 ## Kaggle Projects
 
-[CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)     
+[CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)   
+
+[Fraud Detection](Projects/fraud-detection.html)      
+
+[Titanic Classification](Projects/Titanic.html)     
+
+[House Prices Prediction](Projects/House_Price-Advanced-Teggression-Techniques.html)
 
 
