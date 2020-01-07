@@ -2,7 +2,7 @@
 [MY CERTIFICATES](Projects/CERTİFİCATES.pdf)
 
 ## Quality Projects(Image Processing)      
-The aim of the project is     
+The aim of the project is to predict defects on the textile products by using image filtering methods and control charts that we obtained with a sequence of measurements   
 
 [PROJECT 1 PART-1](Projects/Quality Project 1 PART-1.html)    
 [PROJECT 1 PART-2](Projects/Quality Project 1 PART-2.html)      
@@ -10,6 +10,11 @@ The aim of the project is
 
 [PROJECT 2 PART-1](Projects/Quality Project 2 PART-1.html)      
 [PROJECT 2 PART-2](Projects/Quality Project 2  PART-2.html)    
+
+
+[PROJECT 3 REPORT](Projects/Project-Report.pdf)     
+[PROJECT 3 PART-1](Projects/Project-3.html)     
+[PROJECT 3 PART-2](Projects/Project-3-Continued.html)     
 
 
 ## Time Series Projects
