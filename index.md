@@ -23,7 +23,7 @@ The aim of the project is to predict defects on the textile products by using im
 
 [Time Series Analysis 2](Projects/Time-Series-Analysis-2.html)      
 
-[Time Series Analysis 3](Projects/Time-Series-Analysis-1.html)    
+[Time Series Analysis 3](Projects/Time-Series-Analysis-3.html)    
 
 [Time Series Project](Projects/Time-Series-Project.html)    
 
