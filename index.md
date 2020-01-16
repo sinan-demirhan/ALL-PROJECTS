@@ -50,3 +50,6 @@ The aim of the project is to predict defects on the textile products by using im
 [House Prices Prediction](Projects/House_Price-Advanced-Teggression-Techniques.html)
 
 
+## Capstone Project (Time Series Analysis with ARIMA)
+
+[Project presentation](Projects/Final-Report.pdf)
