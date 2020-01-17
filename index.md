@@ -49,6 +49,8 @@ The aim of the project is to predict defects on the textile products by using im
 
 [House Prices Prediction](Projects/House_Price-Advanced-Teggression-Techniques.html)
 
+[Australia Tourism Data](Projects/Presentation.html)
+
 
 ## Capstone Project (Time Series Analysis with ARIMA)
 
