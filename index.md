@@ -55,3 +55,7 @@ The aim of the project is to predict defects on the textile products by using im
 ## Capstone Project (Time Series Analysis with ARIMA)
 
 [Project presentation](Projects/Final-Report.pdf)
+
+
+## Shinny Project
+[First Shinny](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
