@@ -58,4 +58,15 @@ The aim of the project is to predict defects on the textile products by using im
 
 
 ## Shinny Project
+
 [First Shinny](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
+
+## Courier Simulation Project
+
+[Simulation 1](Projects/Simulation1.html)
+
+[Simulation 2](Projects/Simulation2.html)
+
+[Simulation 3](Projects/Final-Report.pdf)
+
+[Simulation 4](Projects/Final-Report.pdf)
