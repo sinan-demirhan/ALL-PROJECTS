@@ -67,6 +67,6 @@ The aim of the project is to predict defects on the textile products by using im
 
 [Simulation 2](Projects/Simulation2.html)
 
-[Simulation 3](Projects/Final-Report.pdf)
+[Simulation 3](Projects/Simulation3.html)
 
-[Simulation 4](Projects/Final-Report.pdf)
+[Simulation 4](Projects/Simulation4.html)
