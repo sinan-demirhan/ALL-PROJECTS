@@ -67,10 +67,10 @@ The purpose of this project is to deal with time series data and learn to use ti
 ## Courier Simulation Project
 The purpose of this project is to simulate the courier,warehouse and customer order process in a specific area.While simulating the courier process in this project, I also examined the effect of some algorithms on the order service time.   
 
--- [Simulation with no warehouse and courier optimization](Projects/Simulation1.html)         
+-- [Simulation without warehouse and courier optimization](Projects/Simulation1.html)         
 
 -- [Simulation with warehouse and courier heuristic optimization](Projects/Simulation2.html)           
 
--- [Simulation vailable couriers](Projects/Simulation3.html)                
+-- [Simulation available couriers](Projects/Simulation3.html)                
 
--- [Simulation for different input](Projects/Simulation4.html)
+-- [Simulation for different inputs](Projects/Simulation4.html)
