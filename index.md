@@ -18,14 +18,15 @@ The aim of the project is to predict defects on the textile products by using im
 
 
 ## Time Series Projects
+The purpose of this project is to deal with time series data and learn to use time series algorithms such as ARIMA.     
 
-[Time Series Analysis 1](Projects/Time-Series-Analysis-1.html)    
+[Extract seasonality and trend from the data](Projects/Time-Series-Analysis-1.html)    
 
-[Time Series Analysis 2](Projects/Time-Series-Analysis-2.html)      
+[Implementing stepwise regression by usin ANOVA](Projects/Time-Series-Analysis-2.html)      
 
-[Time Series Analysis 3](Projects/Time-Series-Analysis-3.html)    
+[Setting ARIMA function arguments](Projects/Time-Series-Analysis-3.html)    
 
-[Time Series Project](Projects/Time-Series-Project.html)    
+[A basic reggression or a time series modelling](Projects/Time-Series-Project.html)    
 
 
 ## Data Mining Algorithms
@@ -36,7 +37,7 @@ The aim of the project is to predict defects on the textile products by using im
 
 [Regressions and KNN algorithm](Projects/Regressions and KNN algorithm.html)    
 
-[Clustering](Projects/Clustering.html)
+[Hierarchical and Kmeans Clustring](Projects/Clustering.html)
 
 
 ## Kaggle Projects
@@ -49,7 +50,7 @@ The aim of the project is to predict defects on the textile products by using im
 
 [House Prices Prediction](Projects/House_Price-Advanced-Teggression-Techniques.html)
 
-[Australia Tourism Data](Projects/Presentation.html)
+[Time series analysis with fable package, Australia Tourism Data](Projects/Presentation.html)
 
 
 ## Capstone Project (Time Series Analysis with ARIMA)
@@ -59,14 +60,15 @@ The aim of the project is to predict defects on the textile products by using im
 
 ## Shinny Project
 
-[First Shinny](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
+[IMDB 250 MOVIE TABLES](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
 
 ## Courier Simulation Project
+The purpose of this project is to simulate the courier,warehouse and customer order process in a specific area.While simulating the courier process in this project, I also examined the effect of some algorithms on the order service time.   
 
-[Simulation 1](Projects/Simulation1.html)
+[Simulation with no warehouse and courier optimization](Projects/Simulation1.html)
+  --
+[Simulation with warehouse and courier heuristic optimization](Projects/Simulation2.html)
 
-[Simulation 2](Projects/Simulation2.html)
-
-[Simulation 3](Projects/Simulation3.html)
-
-[Simulation 4](Projects/Simulation4.html)
+[Simulation vailable couriers](Projects/Simulation3.html)
+  --> orptns
+[Simulation for different input](Projects/Simulation4.html)
