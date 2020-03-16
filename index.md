@@ -35,10 +35,12 @@ The purpose of this project is to deal with time series data and learn to use ti
 
 [Decision Tree Algorithm](Projects/Decision Tree Algorithm.html)    
 
-[Regressions and KNN algorithm](Projects/Regressions and KNN algorithm.html)    
+[Regressions and KNN algorithm](Projects/Regressions and KNN algorithm.html)      
 
-[Hierarchical and Kmeans Clustring](Projects/Clustering.html)
+[Hierarchical and Kmeans Clustring](Projects/Clustering.html)       
 
+[Neural Network - SVM - Association Mining](Projects/Basics.html)
+  
 
 ## Kaggle Projects
 
@@ -65,10 +67,10 @@ The purpose of this project is to deal with time series data and learn to use ti
 ## Courier Simulation Project
 The purpose of this project is to simulate the courier,warehouse and customer order process in a specific area.While simulating the courier process in this project, I also examined the effect of some algorithms on the order service time.   
 
-[Simulation with no warehouse and courier optimization](Projects/Simulation1.html)
-  --
-[Simulation with warehouse and courier heuristic optimization](Projects/Simulation2.html)
+-- [Simulation with no warehouse and courier optimization](Projects/Simulation1.html)         
 
-[Simulation vailable couriers](Projects/Simulation3.html)
-  --> orptns
-[Simulation for different input](Projects/Simulation4.html)
+-- [Simulation with warehouse and courier heuristic optimization](Projects/Simulation2.html)           
+
+-- [Simulation vailable couriers](Projects/Simulation3.html)                
+
+-- [Simulation for different input](Projects/Simulation4.html)
