@@ -60,7 +60,7 @@ The purpose of this project is to deal with time series data and learn to use ti
 [Project presentation](Projects/Final-Report.pdf)
 
 
-## Shinny Project
+## Shinny Projects
 
 [IMDB 250 MOVIE TABLES](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
 
