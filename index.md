@@ -64,6 +64,8 @@ The purpose of this project is to deal with time series data and learn to use ti
 
 [IMDB 250 MOVIE TABLES](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
 
+[PRICING OPTIMIZATION APP](https://sdemirhan1320.shinyapps.io/Desktop/)
+
 ## Courier Simulation Project
 The purpose of this project is to simulate the courier,warehouse and customer order process in a specific area.While simulating the courier process in this project, I also examined the effect of some algorithms on the order service time.   
 
