@@ -42,7 +42,7 @@ The purpose of this project is to deal with time series data and learn to use ti
 [Neural Network - SVM - Association Mining](Projects/Basics.html)
   
 
-## Kaggle Projects
+## Kaggle and Other Projects
 
 [CREDİT CARD CLASSİFİCATİON ALGORITHMS](Projects/CREDİT CARD CLASSİFİCATİON.html)   
 
@@ -54,13 +54,15 @@ The purpose of this project is to deal with time series data and learn to use ti
 
 [Time series analysis with fable package, Australia Tourism Data](Projects/Presentation.html)
 
+[Object Detection Algorithm](Projects/object_detection.html) 
+
 
 ## Capstone Project (Time Series Analysis with ARIMA)
 
 [Project presentation](Projects/Final-Report.pdf)
 
 
-## Shinny Projects
+## RShiny Projects
 
 [IMDB 250 MOVIE TABLES](https://sdemirhan1320.shinyapps.io/First_Shiny_APP/)
 
