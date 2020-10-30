@@ -54,7 +54,9 @@ The purpose of this project is to deal with time series data and learn to use ti
 
 [Time series analysis with fable package, Australia Tourism Data](Projects/Presentation.html)
 
-[Object Detection Algorithm](Projects/object_detection.html) 
+[Object Detection Algorithm](Projects/object_detection.html)    
+
+[Churn Analysis](Projects/Insider.html)
 
 
 ## Capstone Project (Time Series Analysis with ARIMA)
