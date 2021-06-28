@@ -56,7 +56,9 @@ The purpose of this project is to deal with time series data and learn to use ti
 
 [Object Detection Algorithm](Projects/object_detection.html)    
 
-[Churn Analysis](Projects/Insider.html)
+[Churn Analysis](Projects/Insider.html)         
+            
+[Boston Crime Analysis and Best Station Optimization](Projects/Boston Crime.html)
 
 
 ## Capstone Project (Time Series Analysis with ARIMA)
