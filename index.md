@@ -1,6 +1,8 @@
 
 [MY CERTIFICATES](Projects/CERTİFİCATES.pdf)
 
+[Job Offers](Projects/Job_offers.pdf)
+
 ## Quality Projects(Image Processing)      
 The aim of the project is to predict defects on the textile products by using image filtering methods and control charts that we obtained with a sequence of measurements   
 
