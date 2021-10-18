@@ -1,5 +1,5 @@
 
-[MY CERTIFICATES](Projects/CERTİFİCATES.pdf)
+[MY CERTIFICATES](Projects/Certificates.pdf)
 
 [Job Offers](Projects/Job_offers.pdf)
 
