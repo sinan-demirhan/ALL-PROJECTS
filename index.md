@@ -61,6 +61,8 @@ The purpose of this project is to deal with time series data and learn to use ti
             
 [Boston Crime Analysis and Best Station Optimization](Projects/Boston Crime.html)
 
+[Boston Best Station Optimization Mixed Integer Linear Opt](Projects/BOSTON OPTIMIZATION.html)
+
 
 ## Capstone Project (Time Series Analysis with ARIMA)
 
